@@ -24,7 +24,7 @@ body{
   transform: rotateX(-5deg);
   /* transform: scale(1); */
 } 
-@keyframes buildin {
+@keyframes building {
   0%{
     transform: rotateY(0deg);
   }
